@@ -1,0 +1,880 @@
+{
+	  "name": "DIFERIDOS UFC Fight Nights",
+    "author": "MoDz",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8DUs_eptCujTHRwAxJrkaw18XZRMaXNgLzRSKagDuvYAAqlauM0l-QngGK9bK0-f2ItKqMZ62aX-wq4Bp_XTUDni3CYxh9U0t-VfshtE5Sn_4j9jyW7RSBTCoS9s9gu8Yl9FkB7qKFK40VMKFn3PYMcNFX32H1w5oi1ZcCc5-UBk8FyOhAjzYOb4f-G99/w642-h267/invisible.png",
+    "info":"IPTV oficial de FUTBOL-ADICTOS para diferidos de UFC Fight Nights",
+    "telegram": "",
+    "url": "https://raw.githubusercontent.com/MoDz17/IPBOX_content-FNs/main/code_iptv",
+    "groups": [
+        
+        {
+            "name": "FUTBOL - ADICTOS",
+            "image": "https://i.ibb.co/PGL5P2Z/Main-pic-Logo-and-Banner.jpg",
+            "url": "https://raw.githubusercontent.com/MoDz17/IPTV_MoDz/main/code_iptv",
+            "import": false
+       }, 
+   
+        {
+            "name": "Ultm. versión 02/08/2024",
+           "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
+           "info": "última versión actualizada el 02/08/2024",
+           "stations": []
+        },
+
+	      {
+             "name": "UFC Fight Night",
+             "image": "https://i.postimg.cc/Hxmk3kgy/ufc.png",
+             "imageScale": "",
+             "info":"",
+             "stations":
+                [
+                    {
+                    "name": "UFC Fight Night",
+                    "info":"Eurosport",
+                    "image": "https://i.postimg.cc/Hxmk3kgy/ufc.png",
+                    "url":"https://filemoon.sx/d/3c9qtzo6aj81",
+                    "isHost":"true",
+                    "online":"true"
+                    }, {
+                    "name": "Estelares",
+                    "info":"ESPN",
+                    "image": "https://i.postimg.cc/Hxmk3kgy/ufc.png",
+                    "url":"https://filemoon.sx/d/h550qcbj0av8",
+                    "isHost":"true",
+                    "online":"true"
+                    }, {
+                    "name": "Preliminares",
+                    "info":"ESPN",
+                    "image": "https://i.postimg.cc/Hxmk3kgy/ufc.png",
+                    "url":"https://filemoon.sx/d/ce9mhw4tiket",
+                    "isHost":"true",
+                    "online":"true"
+                    }
+                ]
+            },
+
+            {
+             "name": "UFC Fight Night",
+             "image": "https://i.postimg.cc/x11NS9Vh/Cortez-vs-Namajunas.png",
+             "imageScale": "",
+             "info":"",
+             "stations":
+                [
+                    {
+                    "name": "UFC Fight Night",
+                    "info":"Eurosport",
+                    "image": "https://i.postimg.cc/x11NS9Vh/Cortez-vs-Namajunas.png",
+                    "url":"https://filemoon.sx/d/ua08ba1jlx5d",
+                    "isHost":"true",
+                    "online":"true"
+                    }, {
+                    "name": "Estelares",
+                    "info":"ESPN",
+                    "image": "https://i.postimg.cc/x11NS9Vh/Cortez-vs-Namajunas.png",
+                    "url":"https://filemoon.sx/d/lbebo7vltcxv",
+                    "isHost":"true",
+                    "online":"true"
+                    }, {
+                    "name": "Preliminares",
+                    "info":"ESPN",
+                    "image": "https://i.postimg.cc/x11NS9Vh/Cortez-vs-Namajunas.png",
+                    "url":"https://filemoon.sx/d/ngxys7b1dlqe",
+                    "isHost":"true",
+                    "online":"true"
+                    }
+                ]
+            },
+            
+            {
+             "name": "UFC Fight Night",
+             "image": "https://i.postimg.cc/Vvxfp7ZT/ufc.png",
+             "imageScale": "",
+             "info":"",
+             "stations":
+                [
+                    {
+                    "name": "UFC Fight Night",
+                    "info":"Eurosport",
+                    "image": "https://i.postimg.cc/Vvxfp7ZT/ufc.png",
+                    "url":"https://filemoon.sx/d/i89eozn7pafq",
+                    "isHost":"true",
+                    "online":""
+                    }, {
+                    "name": "Estelares",
+                    "info":"ESPN",
+                    "image": "https://i.postimg.cc/Vvxfp7ZT/ufc.png",
+                    "url":"https://filemoon.sx/d/2oqth5218k3b",
+                    "isHost":"true",
+                    "online":"true"
+                    }, {
+                    "name": "Preliminares",
+                    "info":"ESPN",
+                    "image": "https://i.postimg.cc/Vvxfp7ZT/ufc.png",
+                    "url":"https://filemoon.sx/d/gqh5364swqxd",
+                    "isHost":"true",
+                    "online":"true"
+                    }
+                ]
+            },
+
+            {
+             "name": "UFC Fight Night",
+             "image": "https://i.postimg.cc/FHJZ3XYT/ufc.png",
+             "imageScale": "",
+             "info":"",
+             "stations":
+                [
+                    {
+                    "name": "UFC Fight Night",
+                    "info":"Eurosport",
+                    "image": "https://i.postimg.cc/FHJZ3XYT/ufc.png",
+                    "url":"https://filemoon.sx/d/my7h6fhytret",
+                    "isHost":"true",
+                    "online":"true"
+                    }, {
+                    "name": "Estelares",
+                    "info":"ESPN",
+                    "image": "https://i.postimg.cc/FHJZ3XYT/ufc.png",
+                    "url":"https://filemoon.sx/d/saquoptw4suh",
+                    "isHost":"true",
+                    "online":"true"
+                    }, {
+                    "name": "Preliminares",
+                    "info":"ESPN",
+                    "image": "https://i.postimg.cc/FHJZ3XYT/ufc.png",
+                    "url":"https://filemoon.sx/d/29fsd3w88cpd",
+                    "isHost":"true",
+                    "online":"true"
+                    }
+                ]
+            },
+
+            {
+             "name": "UFC Fight Night",
+             "image": "https://i.postimg.cc/fbndZ477/ufc.png",
+             "imageScale": "",
+             "info":"",
+             "stations":
+                [
+                    {
+                    "name": "UFC Fight Night",
+                    "info":"Eurosport",
+                    "image": "https://i.postimg.cc/fbndZ477/ufc.png",
+                    "url":"https://filemoon.sx/d/4ixi9ncz698s",
+                    "isHost":"true",
+                    "online":"true"
+                    }, {
+                    "name": "Estelares",
+                    "info":"ESPN",
+                    "image": "https://i.postimg.cc/fbndZ477/ufc.png",
+                    "url":"https://filemoon.sx/d/759zjaw9p40b",
+                    "isHost":"true",
+                    "online":"true"
+                    }, {
+                    "name": "Preliminares",
+                    "info":"ESPN",
+                    "image": "https://i.postimg.cc/fbndZ477/ufc.png",
+                    "url":"https://filemoon.sx/d/ed43d04lak77",
+                    "isHost":"true",
+                    "online":"true"
+                    }
+                ]
+            },
+            
+            {
+             "name": "UFC Fight Night",
+             "image": "https://i.postimg.cc/9f5Jzyj6/ufc92.png",
+             "imageScale": "",
+             "info":"",
+             "stations":
+                [
+                    {
+                    "name": "UFC Fight Night",
+                    "info":"Eurosport",
+                    "image": "https://i.postimg.cc/9f5Jzyj6/ufc92.png",
+                    "url":"https://filemoon.sx/d/lmbic7v5ucwt",
+                    "isHost":"true",
+                    "online":"true"
+                    }, {
+                    "name": "UFC Fight Night",
+                    "info":"ESPN",
+                    "image": "https://i.postimg.cc/9f5Jzyj6/ufc92.png",
+                    "url":"https://listeamed.net/v/MAlwEMY2wlyEJ39",
+                    "isHost":"true",
+                    "online":"true"
+                    }
+                ]
+            },
+
+            {
+             "name": "UFC Fight Night",
+             "image": "https://i.postimg.cc/GhzLpcPb/UFC-Fight-Night2.png",
+             "imageScale": "",
+             "info":"",
+             "stations":
+                [
+                    {
+                    "name": "UFC Fight Night",
+                    "info":"Eurosport",
+                    "image": "https://i.postimg.cc/GhzLpcPb/UFC-Fight-Night2.png",
+                    "url":"https://filemoon.sx/d/abk7zhlrbebp",
+                    "isHost":"true",
+                    "online":"true"
+                    }, {
+                    "name": "Estelares",
+                    "info":"ESPN",
+                    "image": "https://i.postimg.cc/GhzLpcPb/UFC-Fight-Night2.png",
+                    "url":"https://filemoon.sx/d/1aara8yc4nf2",
+                    "isHost":"true",
+                    "online":"true"
+                    }, {
+                    "name": "Preliminares",
+                    "info":"ESPN",
+                    "image": "https://i.postimg.cc/GhzLpcPb/UFC-Fight-Night2.png",
+                    "url":"https://filemoon.sx/d/rwgbhab010x1",
+                    "isHost":"true",
+                    "online":"true"
+                    }
+                ]
+            },
+            
+            {
+             "name": "UFC Fight Night",
+             "image": "https://i.postimg.cc/CM4CJsWx/ufc.png",
+             "imageScale": "",
+             "info":"",
+             "stations":
+                [
+                    {
+                    "name": "UFC Fight Night",
+                    "info":"Eurosport",
+                    "image": "https://i.postimg.cc/CM4CJsWx/ufc.png",
+                    "url":"https://filemoon.sx/d/9qzvsjif35jy",
+                    "isHost":"true",
+                    "online":"true"
+                    }, {
+                    "name": "Estelares",
+                    "info":"ESPN",
+                    "image": "https://i.postimg.cc/CM4CJsWx/ufc.png",
+                    "url":"https://filemoon.sx/d/p3on0lr5lmxh",
+                    "isHost":"true",
+                    "online":"true"
+                    }, {
+                    "name": "Preliminares",
+                    "info":"ESPN",
+                    "image": "https://i.postimg.cc/CM4CJsWx/ufc.png",
+                    "url":"https://filemoon.sx/d/wfpg432yxc8m",
+                    "isHost":"true",
+                    "online":"true"
+                    }
+                ]
+            },
+            
+            {
+             "name": "UFC Fight Night",
+             "image": "https://i.postimg.cc/13ZBVybH/allenvscurtis.png",
+             "imageScale": "",
+             "info":"",
+             "stations":
+                [
+                    {
+                    "name": "UFC Fight Night",
+                    "info":"Eurosport",
+                    "image": "https://i.postimg.cc/13ZBVybH/allenvscurtis.png",
+                    "url":"https://bembed.net/v/njJYOd3Q9XnEe9o",
+                    "isHost":"true",
+                    "online":"true"
+                    }, {
+                    "name": "UFC Fight Night",
+                    "info":"ESPN",
+                    "image": "https://i.postimg.cc/13ZBVybH/allenvscurtis.png",
+                    "url":"https://bembed.net/v/7QWN5ey083l59oR",
+                    "isHost":"true",
+                    "online":"true"
+                    }
+                ]
+            },
+
+            {
+             "name": "UFC Fight Night",
+             "image": "https://i.postimg.cc/52d3y3gq/ufc.png",
+             "imageScale": "",
+             "info":"",
+             "stations":
+                [
+                    {
+                    "name": "UFC Fight Night",
+                    "info":"Eurosport",
+                    "image": "https://i.postimg.cc/52d3y3gq/ufc.png",
+                    "url":"https://bembed.net/v/mMq75L8pjrV5XPB",
+                    "isHost":"true",
+                    "online":"true"
+                    }, {
+                    "name": "UFC Fight Night",
+                    "info":"ESPN",
+                    "image": "https://i.postimg.cc/52d3y3gq/ufc.png",
+                    "url":"https://bembed.net/v/rabVOQQp2GGOKdW",
+                    "isHost":"true",
+                    "online":"true"
+                    }
+                ]
+            },
+
+            {
+             "name": "UFC Fight Night",
+             "image": "https://i.postimg.cc/Kv15RCM8/UFC-Fight-Night-Ribas-vs-Namajunas.png",
+             "imageScale": "",
+             "info":"",
+             "stations":
+                [
+                    {
+                    "name": "UFC Fight Night",
+                    "info":"Eurosport",
+                    "image": "https://i.postimg.cc/Kv15RCM8/UFC-Fight-Night-Ribas-vs-Namajunas.png",
+                    "url":"https://filemoon.sx/d/drwulkhxvs9c",
+                    "isHost":"true",
+                    "online":"true"
+                    }, {
+                    "name": "UFC Fight Night",
+                    "info":"ESPN",
+                    "image": "https://i.postimg.cc/Kv15RCM8/UFC-Fight-Night-Ribas-vs-Namajunas.png",
+                    "url":"https://filemoon.sx/d/wluzloqlnue6",
+                    "isHost":"true",
+                    "online":"true"
+                    }
+                ]
+            },
+
+            {
+             "name": "UFC Fight Night",
+             "image": "https://i.postimg.cc/1zJmCWpY/tuivasa-Vs-Tybura.png",
+             "imageScale": "",
+             "info":"",
+             "stations":
+                [
+                    {
+                    "name": "UFC Fight Night",
+                    "info":"Eurosport",
+                    "image": "https://i.postimg.cc/1zJmCWpY/tuivasa-Vs-Tybura.png",
+                    "url":"https://fmembed.cc/d/mb2wxfovr2v0",
+                    "isHost":"true",
+                    "online":"true"
+                    }, {
+                    "name": "UFC Fight Night",
+                    "info":"ESPN",
+                    "image": "https://i.postimg.cc/1zJmCWpY/tuivasa-Vs-Tybura.png",
+                    "url":"https://fmembed.cc/d/chgsmilu683b",
+                    "isHost":"true",
+                    "online":"true"
+                    }
+                ]
+            },
+            
+            {
+             "name": "UFC Fight Night",
+             "image": "https://i.postimg.cc/ncyMbTFR/ufc.png",
+             "imageScale": "",
+             "info":"",
+             "stations":
+                [
+                    {
+                    "name": "Estelares",
+                    "info":"ESPN",
+                    "image": "https://i.postimg.cc/ncyMbTFR/ufc.png",
+                    "url":"https://embedv.net/v/4bQVOj7m7g35wKm",
+                    "isHost":"true",
+                    "online":"true"
+                    }, {
+                    "name": "Preliminares",
+                    "info":"ESPN",
+                    "image": "https://i.postimg.cc/ncyMbTFR/ufc.png",
+                    "url":"https://embedv.net/v/rabVOQQ1Q1NOKdW",
+                    "isHost":"true",
+                    "online":"true"
+                    }
+                ]
+            },
+
+            {
+             "name": "UFC Fight Night",
+             "image": "https://i.postimg.cc/Ss587xBf/UFC-Fight-Night-Moreno-vs-Royval-2.png",
+             "imageScale": "",
+             "info":"",
+             "stations":
+                [
+                    {
+                    "name": "UFC Fight Night",
+                    "info":"ESPN",
+                    "image": "https://i.postimg.cc/Ss587xBf/UFC-Fight-Night-Moreno-vs-Royval-2.png",
+                    "url":"https://filemoon.sx/d/it7cwmsa10yo",
+                    "isHost":"true",
+                    "online":"true"
+                    }
+                ]
+            },
+           
+            {
+             "name": "UFC Fight Night",
+             "image": "https://i.postimg.cc/CKnjKwjW/UFC-Fight-Night.png",
+             "imageScale": "",
+             "info":"",
+             "stations":
+                [
+                    {
+                    "name": "UFC Fight Night",
+                    "info":"ESPN",
+                    "image": "https://i.postimg.cc/CKnjKwjW/UFC-Fight-Night.png",
+                    "url":"https://embedv.net/v/vQBYEbNBNBmEn1m",
+                    "isHost":"true",
+                    "online":"true"
+                    }
+                ]
+            },
+
+            {
+             "name": "UFC Fight Night",
+             "image": "https://i.postimg.cc/VkhzR83s/UFC-Fight-Night.png",
+             "imageScale": "",
+             "info":"",
+             "stations":
+                [
+                    {
+                    "name": "Estelares",
+                    "info":"ESPN",
+                    "image": "https://i.postimg.cc/VkhzR83s/UFC-Fight-Night.png",
+                    "url":"https://filemoon.sx/d/j3k15jtdgt9k",
+                    "isHost":"true",
+                    "online":"true"
+                    }, {
+                    "name": "Preliminares",
+                    "info":"ESPN",
+                    "image": "https://i.postimg.cc/VkhzR83s/UFC-Fight-Night.png",
+                    "url":"https://filemoon.sx/d/6q7xovk1k0fq",
+                    "isHost":"true",
+                    "online":"true"
+                    }
+                ]
+            },
+            
+            {
+             "name": "UFC Fight Night",
+             "image": "https://i.postimg.cc/x8sqrTfk/UFC-Fight-Night.png",
+             "imageScale": "",
+             "info":"",
+             "stations":
+                [
+                    {
+                    "name": "Estelares",
+                    "info":"ESPN",
+                    "image": "https://i.postimg.cc/x8sqrTfk/UFC-Fight-Night.png",
+                    "url":"https://filemoon.sx/d/upibbnt6rw56",
+                    "isHost":"true",
+                    "online":"true"
+                    }, {
+                    "name": "Preliminares",
+                    "info":"ESPN",
+                    "image": "https://i.postimg.cc/x8sqrTfk/UFC-Fight-Night.png",
+                    "url":"https://filemoon.sx/d/84ii9fhgo4mm",
+                    "isHost":"true",
+                    "online":"true"
+                    }
+                ]
+            },
+            
+            {
+             "name": "UFC Fight Night",
+             "image": "https://i.postimg.cc/V65rgCBS/UFC-Fight-Night.png",
+             "imageScale": "",
+             "info":"",
+             "stations":
+                [
+                    {
+                    "name": "Estelares",
+                    "info":"ESPN",
+                    "image": "https://i.postimg.cc/V65rgCBS/UFC-Fight-Night.png",
+                    "url":"https://www.linkbox.to/f-detail/ZnA0OWtvMDAzOHJr0",
+                    "isHost":"true",
+                    "online":"true"
+                    }, {
+                    "name": "Preliminares",
+                    "info":"ESPN",
+                    "image": "https://i.postimg.cc/V65rgCBS/UFC-Fight-Night.png",
+                    "url":"https://www.linkbox.to/f-detail/ZnA0OWtvMDAwYXRp0",
+                    "isHost":"true",
+                    "online":"true"
+                    }
+                ]
+            },
+
+            {
+             "name": "UFC Fight Night",
+             "image": "https://i.postimg.cc/Hkgmd8xf/UFC-Fight-Night.png",
+             "imageScale": "",
+             "info":"",
+             "stations":
+                [
+                    {
+                    "name": "Estelares",
+                    "info":"ESPN",
+                    "image": "https://i.postimg.cc/Hkgmd8xf/UFC-Fight-Night.png",
+                    "url":"https://www.linkbox.to/f-detail/ZnA0OTBvMDAwYm150",
+                    "isHost":"true",
+                    "online":"true"
+                    }, {
+                    "name": "Preliminares",
+                    "info":"ESPN",
+                    "image": "https://i.postimg.cc/Hkgmd8xf/UFC-Fight-Night.png",
+                    "url":"https://www.linkbox.to/f-detail/ZnA0OTBrMDA0YzM50",
+                    "isHost":"true",
+                    "online":"true"
+                    }
+                ]
+            },
+
+            {
+             "name": "UFC Fight Night",
+             "image": "https://i.postimg.cc/K8mm23pR/UFC-Fight-Night.png",
+             "imageScale": "",
+             "info":"",
+             "stations":
+                [
+                    {
+                    "name": "Estelares",
+                    "info":"ESPN",
+                    "image": "https://i.postimg.cc/K8mm23pR/UFC-Fight-Night.png",
+                    "url":"https://www.linkbox.to/f-detail/ZnA0ODJrMDA1cDdu0",
+                    "isHost":"true",
+                    "online":"true"
+                    }, {
+                    "name": "Preliminares",
+                    "info":"ESPN",
+                    "image": "https://i.postimg.cc/K8mm23pR/UFC-Fight-Night.png",
+                    "url":"https://www.linkbox.to/f-detail/ZnA0ODJrMDAzNHJ20",
+                    "isHost":"true",
+                    "online":"true"
+                    }
+                ]
+            },
+            
+            {
+             "name": "UFC Fight Night",
+             "image": "https://i.postimg.cc/ZYVq5c36/UFC-Fight-Night.png",
+             "imageScale": "",
+             "info":"",
+             "stations":
+                [
+                    {
+                    "name": "Estelares",
+                    "info":"ESPN",
+                    "image": "https://i.postimg.cc/ZYVq5c36/UFC-Fight-Night.png",
+                    "url":"https://www.linkbox.to/f-detail/ZnA0NnpjMDAwOHg50",
+                    "isHost":"true",
+                    "online":"true"
+                    }, {
+                    "name": "Preliminares",
+                    "info":"ESPN",
+                    "image": "https://i.postimg.cc/ZYVq5c36/UFC-Fight-Night.png",
+                    "url":"https://www.linkbox.to/f-detail/ZnA0Nnl3MDAxajQy0",
+                    "isHost":"true",
+                    "online":"true"
+                    }
+                ]
+            },
+            
+            {
+             "name": "UFC Fight Night",
+             "image": "https://i.postimg.cc/sfLgWJfS/UFC-Fight-Night.png",
+             "imageScale": "",
+             "info":"",
+             "stations":
+                [
+                    {
+                    "name": "Estelares",
+                    "info":"ESPN",
+                    "image": "https://i.postimg.cc/sfLgWJfS/UFC-Fight-Night.png",
+                    "url":"https://www.linkbox.to/f-detail/ZnA0NXV3MDA1dHlr0",
+                    "isHost":"true",
+                    "online":"true"
+                    }, {
+                    "name": "Preliminares",
+                    "info":"ESPN",
+                    "image": "https://i.postimg.cc/sfLgWJfS/UFC-Fight-Night.png",
+                    "url":"https://www.linkbox.to/f-detail/ZnA0NXU0MDAwMjBr0",
+                    "isHost":"true",
+                    "online":"true"
+                    }
+                ]
+            },
+
+            {
+             "name": "UFC Fight Night",
+             "image": "https://i.postimg.cc/9MYVnGym/UFC-Fight-Night.png",
+             "imageScale": "",
+             "info":"",
+             "stations":
+                [
+                    {
+                    "name": "Estelares",
+                    "info":"ESPN",
+                    "image": "https://i.postimg.cc/9MYVnGym/UFC-Fight-Night.png",
+                    "url":"https://www.linkbox.to/f-detail/ZnA0NWVrMDAwdHJ60",
+                    "isHost":"true",
+                    "online":"true"
+                    }, {
+                    "name": "Preliminares",
+                    "info":"ESPN",
+                    "image": "https://i.postimg.cc/9MYVnGym/UFC-Fight-Night.png",
+                    "url":"https://www.linkbox.to/f-detail/ZnA0NWVrMDAwN2d20",
+                    "isHost":"true",
+                    "online":"true"
+                    }
+                ]
+            },
+
+            {
+             "name": "UFC Fight Night",
+             "image": "https://i.postimg.cc/FFx3j8dq/UFC-Fight-Night.png",
+             "imageScale": "",
+             "info":"",
+             "stations":
+                [
+                    {
+                    "name": "Estelares",
+                    "info":"ESPN",
+                    "image": "https://i.postimg.cc/FFx3j8dq/UFC-Fight-Night.png",
+                    "url":"https://www.linkbox.to/f-detail/ZnA0NWVnMDAzdnI20",
+                    "isHost":"true",
+                    "online":"true"
+                    }, {
+                    "name": "Preliminares",
+                    "info":"ESPN",
+                    "image": "https://i.postimg.cc/FFx3j8dq/UFC-Fight-Night.png",
+                    "url":"https://www.linkbox.to/f-detail/ZnA0NWVnMDAxdnJ10",
+                    "isHost":"true",
+                    "online":"true"
+                    }
+                ]
+            }, 
+
+            {
+             "name": "UFC Fight Night",
+             "image": "https://i.postimg.cc/RhPTGDFc/UFC-Fight-Night.png",
+             "imageScale": "",
+             "info":"",
+             "stations":
+                [
+                    {
+                    "name": "Estelares",
+                    "info":"ESPN",
+                    "image": "https://i.postimg.cc/RhPTGDFc/UFC-Fight-Night.png",
+                    "url":"https://filemoon.sx/d/a1ugzs14i4jm",
+                    "isHost":"true",
+                    "online":"true"
+                    }, {
+                    "name": "Preliminares",
+                    "info":"ESPN",
+                    "image": "https://i.postimg.cc/RhPTGDFc/UFC-Fight-Night.png",
+                    "url":"https://filemoon.sx/d/w7d4a31l5tfx",
+                    "isHost":"true",
+                    "online":"true"
+                    }
+                ]
+            }, 
+            
+            {
+             "name": "UFC Fight Night",
+             "image": "https://villageinnpizzeria.com/wp-content/uploads/2023/08/090223-UFC-Fight-Night-DIGITAL-FLYER.jpg",
+             "imageScale": "",
+             "info":"",
+             "stations":
+                [
+                    {
+                    "name": "Estelares",
+                    "info":"ESPN",
+                    "image": "https://villageinnpizzeria.com/wp-content/uploads/2023/08/090223-UFC-Fight-Night-DIGITAL-FLYER.jpg",
+                    "url":"https://www.linkbox.to/f-detail/ZnA0Mjl3MDA1bHl60",
+                    "isHost":"true",
+                    "online":"true"
+                    }, {
+                    "name": "Preliminares",
+                    "info":"ESPN",
+                    "image": "https://villageinnpizzeria.com/wp-content/uploads/2023/08/090223-UFC-Fight-Night-DIGITAL-FLYER.jpg",
+                    "url":"https://www.linkbox.to/f-detail/ZnA0Mjl3MDAydGNl0",
+                    "isHost":"true",
+                    "online":"true"
+                    }
+                ]
+            },
+
+            {
+             "name": "UFC Fight Night",
+             "image": "https://www.insidesport.in/wp-content/uploads/2023/08/Event-Hero-Banner-1200-x-675.jpg",
+             "imageScale": "",
+             "info":"",
+             "stations":
+                [
+                    {
+                    "name": "Estelares",
+                    "info":"ESPN",
+                    "image": "https://www.insidesport.in/wp-content/uploads/2023/08/Event-Hero-Banner-1200-x-675.jpg",
+                    "url":"https://www.linkbox.to/f-detail/ZnA0MXY4MDA0a3Zp0",
+                    "isHost":"true",
+                    "online":"true"
+                    }, {
+                    "name": "Preliminares",
+                    "info":"ESPN",
+                    "image": "https://www.insidesport.in/wp-content/uploads/2023/08/Event-Hero-Banner-1200-x-675.jpg",
+                    "url":"https://www.linkbox.to/f-detail/ZnA0MXY0MDAzN3F10",
+                    "isHost":"true",
+                    "online":"true"
+                    }
+                ]
+            },
+            
+            {
+             "name": "UFC Fight Night",
+             "image": "https://imgresizer.eurosport.com/unsafe/1200x0/filters:format(jpeg)/origin-imgresizer.eurosport.com/2023/07/31/3754841-76386748-2560-1440.jpg",
+             "imageScale": "",
+             "info":"",
+             "stations":
+                [
+                    {
+                    "name": "Estelares",
+                    "info":"ESPN",
+                    "image": "https://imgresizer.eurosport.com/unsafe/1200x0/filters:format(jpeg)/origin-imgresizer.eurosport.com/2023/07/31/3754841-76386748-2560-1440.jpg",
+                    "url":"https://www.linkbox.to/f-detail/ZnA0MHE0MDAzeHFo0",
+                    "embed":"",
+                    "isHost":"true",
+                    "online":"true"
+                    }, {
+                    "name": "Preliminares",
+                    "info":"ESPN",
+                    "image": "https://imgresizer.eurosport.com/unsafe/1200x0/filters:format(jpeg)/origin-imgresizer.eurosport.com/2023/07/31/3754841-76386748-2560-1440.jpg",
+                    "url":"https://www.linkbox.to/f-detail/ZnA0MHB3MDAyYWMy0",
+                    "embed":"",
+                    "isHost":"true",
+                    "online":"true"
+                    }
+                ]
+            },
+
+            {
+             "name": "UFC Fight Night",
+             "image": "https://phantom-marca.unidadeditorial.es/9efac8fa2bcd5838131fc264f1f92aa2/resize/828/f/jpg/assets/multimedia/imagenes/2023/07/27/16904840088138.jpg",
+             "imageScale": "",
+             "info":"",
+             "stations":
+                [
+                    {
+                    "name": "Estelares",
+                    "info":"ESPN",
+                    "image": "https://imgresizer.eurosport.com/unsafe/2560x1440/filters:format(jpeg)/origin-imgresizer.eurosport.com/2023/07/26/3751508-76320088-2560-1440.jpgg",
+                    "url":"https://www.linkbox.to/f-detail/ZnA0MHBzMDAwbGE20",
+                    "embed":"",
+                    "isHost":"true",
+                    "online":"true"
+                    }, {
+                    "name": "Preliminares",
+                    "info":"ESPN",
+                    "image": "https://imgresizer.eurosport.com/unsafe/2560x1440/filters:format(jpeg)/origin-imgresizer.eurosport.com/2023/07/26/3751508-76320088-2560-1440.jpg",
+                    "url":"https://www.linkbox.to/f-detail/ZnA0MHBvMDA1cm0w0",
+                    "embed":"",
+                    "isHost":"true",
+                    "online":"true"
+                    }
+                ]
+            },
+            
+            {
+             "name": "UFC Fight Night",
+             "image": "https://les-poings.fr/wp-content/uploads/2023/07/UFC-Londres-juillet-2023-741x486.jpg",
+             "imageScale": "",
+             "info":"",
+             "stations":
+                [
+                    {
+                    "name": "Estelares",
+                    "info":"ESPN",
+                    "image": "https://les-poings.fr/wp-content/uploads/2023/07/UFC-Londres-juillet-2023-741x486.jpg",
+                    "url":"https://www.linkbox.to/f-detail/ZnAzemI0MDAwMnd60",
+                    "embed":"",
+                    "isHost":"true",
+                    "online":"true"
+                    }, {
+                    "name": "Preliminares",
+                    "info":"ESPN",
+                    "image": "https://les-poings.fr/wp-content/uploads/2023/07/UFC-Londres-juillet-2023-741x486.jpg",
+                    "url":"https://www.linkbox.to/f-detail/ZnAzemIwMDAyeGJp0",
+                    "embed":"",
+                    "isHost":"true",
+                    "online":"true"
+                    }
+                ]
+            },
+
+            {
+             "name": "UFC Fight Night",
+             "image": "https://espnpressroom.com/us/files/2023/07/UFC-Fight-Night-7.15_KA-1.png",
+             "imageScale": "",
+             "info":"",
+             "stations":
+                [
+                    {
+                    "name": "Estelares",
+                    "info":"ESPN",
+                    "image": "https://espnpressroom.com/us/files/2023/07/UFC-Fight-Night-7.15_KA-1.png",
+                    "url":"https://www.linkbox.to/f-detail/ZnAzemIwMDAwYjVq0",
+                    "embed":"",
+                    "isHost":"true",
+                    "online":"true"
+                    }, {
+                    "name": "Preliminares",
+                    "info":"ESPN",
+                    "image": "https://espnpressroom.com/us/files/2023/07/UFC-Fight-Night-7.15_KA-1.png",
+                    "url":"https://www.linkbox.to/f-detail/ZnAzemF3MDBuZDZn0",
+                    "embed":"",
+                    "isHost":"true",
+                    "online":"true"
+                    }
+                ]
+            },
+            
+            {
+             "name": "UFC Fight Night",
+             "image": "https://espnpressroom.com/us/files/2023/06/UFC-Fight-Night-7.1_LasVegas_KA_1920x1080.png",
+             "imageScale": "",
+             "info":"",
+             "stations":
+                [
+                    {
+                    "name": "UFC Fight Night",
+                    "info":"ESPN",
+                    "image": "https://espnpressroom.com/us/files/2023/06/UFC-Fight-Night-7.1_LasVegas_KA_1920x1080.png",
+                    "url":"https://www.linkbox.to/f-detail/ZnAzeTBzMDAwNGcx0",
+                    "embed":"",
+                    "isHost":"true",
+                    "online":"true"
+                    }
+                ]
+            },
+
+            {
+             "name": "UFC Fight Night",
+             "image": "https://artwork.espncdn.com/programs/98a6af95-0829-4bc1-b496-783f47a96716/16x9/1280x720_20230524235135.jpg",
+             "imageScale": "",
+             "info":"",
+             "stations":
+                 [
+                    {
+                    "name": "UFC Fight Night",
+                    "info":"ESPN",
+                    "image": "https://artwork.espncdn.com/programs/98a6af95-0829-4bc1-b496-783f47a96716/16x9/1280x720_20230524235135.jpg",
+                    "url":"https://www.linkbox.to/f-detail/ZnAzeDMwMDAzZW560",
+                    "embed":"",
+                    "isHost":"true",
+                    "online":"true"
+                    }
+                ]
+            }
+    ]
+}
