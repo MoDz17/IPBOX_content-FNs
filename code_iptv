@@ -683,7 +683,7 @@
             
             {
              "name": "UFC Fight Night",
-             "image": "https://villageinnpizzeria.com/wp-content/uploads/2023/08/090223-UFC-Fight-Night-DIGITAL-FLYER.jpg",
+             "image": "https://espnpressroom.com/us/files/2023/08/UFC-Fight-Night-9.2_Paris_KA_1920x1080-1.png",
              "imageScale": "",
              "info":"",
              "stations":
@@ -691,14 +691,14 @@
                     {
                     "name": "Estelares",
                     "info":"ESPN",
-                    "image": "https://villageinnpizzeria.com/wp-content/uploads/2023/08/090223-UFC-Fight-Night-DIGITAL-FLYER.jpg",
+                    "image": "https://espnpressroom.com/us/files/2023/08/UFC-Fight-Night-9.2_Paris_KA_1920x1080-1.png",
                     "url":"https://www.linkbox.to/f-detail/ZnA0Mjl3MDA1bHl60",
                     "isHost":"true",
                     "online":"true"
                     }, {
                     "name": "Preliminares",
                     "info":"ESPN",
-                    "image": "https://villageinnpizzeria.com/wp-content/uploads/2023/08/090223-UFC-Fight-Night-DIGITAL-FLYER.jpg",
+                    "image": "https://espnpressroom.com/us/files/2023/08/UFC-Fight-Night-9.2_Paris_KA_1920x1080-1.png",
                     "url":"https://www.linkbox.to/f-detail/ZnA0Mjl3MDAydGNl0",
                     "isHost":"true",
                     "online":"true"
@@ -760,7 +760,7 @@
 
             {
              "name": "UFC Fight Night",
-             "image": "https://phantom-marca.unidadeditorial.es/9efac8fa2bcd5838131fc264f1f92aa2/resize/828/f/jpg/assets/multimedia/imagenes/2023/07/27/16904840088138.jpg",
+             "image": "https://cdn.f4wonline.com/wp-content/uploads/2024/01/ufc-espn-50.png",
              "imageScale": "",
              "info":"",
              "stations":
@@ -768,7 +768,7 @@
                     {
                     "name": "Estelares",
                     "info":"ESPN",
-                    "image": "https://imgresizer.eurosport.com/unsafe/2560x1440/filters:format(jpeg)/origin-imgresizer.eurosport.com/2023/07/26/3751508-76320088-2560-1440.jpgg",
+                    "image": "https://cdn.f4wonline.com/wp-content/uploads/2024/01/ufc-espn-50.png",
                     "url":"https://www.linkbox.to/f-detail/ZnA0MHBzMDAwbGE20",
                     "embed":"",
                     "isHost":"true",
@@ -776,7 +776,7 @@
                     }, {
                     "name": "Preliminares",
                     "info":"ESPN",
-                    "image": "https://imgresizer.eurosport.com/unsafe/2560x1440/filters:format(jpeg)/origin-imgresizer.eurosport.com/2023/07/26/3751508-76320088-2560-1440.jpg",
+                    "image": "https://cdn.f4wonline.com/wp-content/uploads/2024/01/ufc-espn-50.png",
                     "url":"https://www.linkbox.to/f-detail/ZnA0MHBvMDA1cm0w0",
                     "embed":"",
                     "isHost":"true",
