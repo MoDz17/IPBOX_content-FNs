@@ -15,10 +15,43 @@
        }, 
    
         {
-            "name": "Ultm. versión 04/08/2024",
+            "name": "Ultm. versión 07/08/2024",
            "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-           "info": "última versión actualizada el 04/08/2024",
+           "info": "última versión actualizada el 07/08/2024",
            "stations": []
+        },
+
+	{
+         "name": "UFC Fight Night",
+         "image": "https://i.postimg.cc/xTCpVgTx/UFC.png",
+         "imageScale": "",
+         "info":"",
+         "stations":
+            [
+                
+                {
+                "name": "UFC Fight Night",
+                "info":"Eurosport",
+                "image": "https://i.ibb.co/jr7VQss/logo-off.png",
+                "url":"",
+                "isHost":"false",
+                "online":""
+                }, {
+                "name": "Estelares",
+                "info":"ESPN",
+                "image": "https://i.postimg.cc/xTCpVgTx/UFC.png",
+                "url":"https://filemoon.sx/d/mzuhwulk7rno",
+                "isHost":"true",
+                "online":"true"
+                }, {
+                "name": "Preliminares",
+                "info":"ESPN",
+                "image": "https://i.postimg.cc/xTCpVgTx/UFC.png",
+                "url":"https://filemoon.sx/d/1z3hubhshxoi",
+                "isHost":"true",
+                "online":"true"
+                }
+            ]
         },
 
 	      {
