@@ -15,11 +15,47 @@
        }, 
    
         {
-            "name": "Ultm. versión 23/08/2024",
+            "name": "Ultm. versión 09/09/2024",
            "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-           "info": "última versión actualizada el 23/08/2024",
+           "info": "última versión actualizada el 09/09/2024",
            "stations": []
         },
+
+	{
+         "name": "UFC Fight Night",
+         "image": "https://i.postimg.cc/Jnt6vvzw/UFC-Fight-Night-Burns-vs-Brady.png",
+         "imageScale": "",
+         "info":"",
+         "stations":
+            [
+                {
+                "name": "UFC Fight Night",
+                "info":"ESPN",
+                "image": "https://i.postimg.cc/Jnt6vvzw/UFC-Fight-Night-Burns-vs-Brady.png",
+                "url":"https://filemoon.sx/d/ure9510bpad8",
+                "isHost":"true",
+                "online":"true"
+                }
+            ]
+        }, 
+
+	{
+         "name": "UFC Fight Night",
+         "image": "https://i.postimg.cc/TPS3cF4d/ufc.png",
+         "imageScale": "",
+         "info":"",
+         "stations":
+            [
+                {
+                "name": "UFC Fight Night",
+                "info":"ESPN",
+                "image": "https://i.postimg.cc/TPS3cF4d/ufc.png",
+                "url":"https://listeamed.net/v/ao9rxoRP6G95yGe",
+                "isHost":"true",
+                "online":"true"
+                }
+            ]
+        }, 
 
 	{
          "name": "UFC Fight Night",
@@ -28,7 +64,6 @@
          "info":"",
          "stations":
             [
-                
                 {
                 "name": "UFC Fight Night",
                 "info":"Eurosport",
@@ -61,7 +96,6 @@
          "info":"",
          "stations":
             [
-                
                 {
                 "name": "UFC Fight Night",
                 "info":"Eurosport",
