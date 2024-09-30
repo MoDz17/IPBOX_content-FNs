@@ -15,10 +15,28 @@
        }, 
    
         {
-            "name": "Ultm. versión 09/09/2024",
+            "name": "Ultm. versión 01/10/2024",
            "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-           "info": "última versión actualizada el 09/09/2024",
+           "info": "última versión actualizada el 01/10/2024",
            "stations": []
+        },
+
+	{
+         "name": "UFC Fight Night",
+         "image": "https://i.postimg.cc/dDMRNQYK/moicano-vs-saint-denis.png",
+         "imageScale": "",
+         "info":"",
+         "stations":
+            [
+                {
+                "name": "UFC Fight Night",
+                "info":"ESPN",
+                "image": "https://i.postimg.cc/dDMRNQYK/moicano-vs-saint-denis.png",
+                "url":"https://www.linkbox.to/f-detail/ZnA0dmNrMDAwdWFz0",
+                "isHost":"true",
+                "online":"true"
+                }
+            ]
         },
 
 	{
