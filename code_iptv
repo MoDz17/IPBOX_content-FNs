@@ -15,10 +15,60 @@
        }, 
    
         {
-            "name": "Ultm. versión 01/10/2024",
+            "name": "Ultm. versión 30/10/2024",
            "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-           "info": "última versión actualizada el 01/10/2024",
+           "info": "última versión actualizada el 30/10/2024",
            "stations": []
+        },
+
+	{
+         "name": "UFC Fight Night",
+         "image": "https://i.postimg.cc/yNYLSQ9z/UFC.png",
+         "imageScale": "",
+         "info":"",
+         "stations":
+            [
+                {
+                "name": "UFC Fight Night",
+                "info":"Eurosport",
+                "image": "https://i.postimg.cc/yNYLSQ9z/UFC.png",
+                "url":"https://filemoon.sx/d/0ol8af1tqdsq",
+                "isHost":"true",
+                "online":"true"
+                }, {
+                "name": "UFC Fight Night",
+                "info":"ESPN",
+                "image": "https://i.postimg.cc/yNYLSQ9z/UFC.png",
+                "url":"https://www.linkbox.to/f-detail/ZnA0d3o0MDAwM3E40",
+                "isHost":"true",
+                "online":"true"
+                }
+            ]
+        },
+
+	{
+         "name": "UFC Fight Night",
+         "image": "https://i.postimg.cc/NFctYyQC/ufc.png",
+         "imageScale": "",
+         "info":"",
+         "stations":
+            [
+                {
+                "name": "UFC Fight Night",
+                "info":"Eurosport",
+                "image": "https://i.postimg.cc/NFctYyQC/ufc.png",
+                "url":"https://filemoon.sx/d/1w8hlzdfyxp5",
+                "isHost":"true",
+                "online":"true"
+                }, {
+                "name": "UFC Fight Night",
+                "info":"ESPN",
+                "image": "https://i.postimg.cc/NFctYyQC/ufc.png",
+                "url":"https://www.linkbox.to/f-detail/ZnA0d2ZrMDAwaDRr0",
+                "isHost":"true",
+                "online":"true"
+                }
+            ]
         },
 
 	{
