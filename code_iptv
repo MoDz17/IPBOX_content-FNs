@@ -15,10 +15,46 @@
        }, 
    
         {
-            "name": "Ultm. versión 30/10/2024",
+            "name": "Ultm. versión 19/11/2024",
            "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-           "info": "última versión actualizada el 30/10/2024",
+           "info": "última versión actualizada el 19/11/2024",
            "stations": []
+        },
+
+	{
+         "name": "UFC Fight Night",
+         "image": "https://i.postimg.cc/Y9Dny8v9/UFC-Fight-Night-Mangy-Prates.png",
+         "imageScale": "",
+         "info":"",
+         "stations":
+            [
+                {
+                "name": "UFC Fight Night",
+                "info":"ESPN",
+                "image": "https://i.postimg.cc/Y9Dny8v9/UFC-Fight-Night-Mangy-Prates.png",
+                "url":"https://www.linkbox.to/f-detail/ZnA0eXgwMDAwZTQ00",
+                "isHost":"true",
+                "online":"true"
+                }
+            ]
+        },
+
+	{
+         "name": "UFC Fight Night",
+         "image": "https://i.postimg.cc/8cq60Xrp/UFC.png",
+         "imageScale": "",
+         "info":"",
+         "stations":
+            [
+                {
+                "name": "UFC Fight Night",
+                "info":"ESPN",
+                "image": "https://i.postimg.cc/8cq60Xrp/UFC.png",
+                "url":"https://www.linkbox.to/f-detail/ZnA0eTVzMDAwNTc50",
+                "isHost":"true",
+                "online":"true"
+                }
+            ]
         },
 
 	{
