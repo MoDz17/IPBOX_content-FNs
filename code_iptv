@@ -15,10 +15,46 @@
        }, 
    
         {
-            "name": "Ultm. versión 19/11/2024",
+            "name": "Ultm. versión 10/01/2025",
            "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-           "info": "última versión actualizada el 19/11/2024",
+           "info": "última versión actualizada el 10/01/2025",
            "stations": []
+        },
+
+	{
+         "name": "UFC Fight Night",
+         "image": "https://i.postimg.cc/RFFhnXKq/Covington-Vs-Buckley.png",
+         "imageScale": "",
+         "info":"",
+         "stations":
+            [
+                {
+                "name": "UFC Fight Night",
+                "info":"ESPN",
+                "image": "https://i.postimg.cc/RFFhnXKq/Covington-Vs-Buckley.png",
+                "url":"https://www.linkbox.to/f-detail/ZnA1MThjMDAwNWo40",
+                "isHost":"true",
+                "online":"true"
+                }
+            ]
+        },
+
+	{
+         "name": "UFC Fight Night",
+         "image": "https://i.postimg.cc/g2FxByFB/Yan-Vs-Figueiredo.png",
+         "imageScale": "",
+         "info":"",
+         "stations":
+            [
+                {
+                "name": "UFC Fight Night",
+                "info":"ESPN",
+                "image": "https://i.postimg.cc/g2FxByFB/Yan-Vs-Figueiredo.png",
+                "url":"https://www.linkbox.to/f-detail/ZnA0enN3MDAwZ2Zm0",
+                "isHost":"true",
+                "online":"true"
+                }
+            ]
         },
 
 	{
